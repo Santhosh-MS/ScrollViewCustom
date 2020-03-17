@@ -1,25 +1,24 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "546f238f-063a-1cc4-2888-ce57b7db7bff++821",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
-    "546f238f-063a-1cc4-2888-ce57b7db7bff++821" : {
+    "546f238f-063a-1cc4-2888-ce57b7db7bff++6166" : {
 
     }
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "546f238f-063a-1cc4-2888-ce57b7db7bff++821" : 9223372036854775807
+    "546f238f-063a-1cc4-2888-ce57b7db7bff++6166" : 9223372036854775807
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7E3DCACD-391A-40B7-A87B-0B36A7A4083B",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "546f238f-063a-1cc4-2888-ce57b7db7bff++821" : "Workspace\/"
+    "546f238f-063a-1cc4-2888-ce57b7db7bff++6166" : "ScrollView\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "ScrollView",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
-  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Challenges\/iosProofs\/ScrollView\/ScrollView.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ScrollView.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ZylogSystems\/FieldPowerCloud",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "546f238f-063a-1cc4-2888-ce57b7db7bff++821"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "546f238f-063a-1cc4-2888-ce57b7db7bff++6166"
     }
   ]
 }
